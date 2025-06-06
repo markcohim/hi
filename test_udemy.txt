@@ -1,0 +1,2 @@
+adding text on 2025.06.06 by watching https://www.udemy.com/course/git-with-visual-studio-code/learn/lecture/22684037#overview
+section 3 - source control in VS.code
